@@ -1,1 +1,1 @@
-# TimeSeriesForecasstingInPython
+# TimeSeriesForecastingInPython
